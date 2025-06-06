@@ -16,7 +16,7 @@
     <div class="row mt-5">
         <div class="col-md-6 offset-md-3">
             <div class="card">
-                <h4 class="card-header">Stripe Payment (Multiple Methods)</h4>
+                <h4 class="card-header">Stripe Payment</h4>
                 <div class="card-body">
 
                     @if (session('success'))
